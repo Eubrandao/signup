@@ -1,4 +1,4 @@
-Esse é um projeto de cadastro de usuários(Signup) utilizando o Next Js e o MongoDb
+Esse é um projeto de cadastro de usuários(Signup) utilizando o Next Js e o MongoDb.
 This is a project of user registration utilized Next Js and MongoDb
 
 ## Getting Started
