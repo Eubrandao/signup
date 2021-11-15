@@ -1,5 +1,5 @@
-- Esse é um projeto de cadastro de usuários(Signup) utilizando o Next Js e o MongoDb.
-- This is a project of user registration utilized Next Js and MongoDb
+- Esse é um projeto de cadastro de usuários(Signup) utilizando o Next Js, React e o MongoDb.
+- This is a project of user registration utilized Next Js, React and MongoDb
 
 - A Rota '/' é onde será realizado o cadastro do usuários e na rota 'api/users' conseguimos visualizar os usuários criados em JSON.
 - The Route '/' is where the registration users and the route 'api/users' is a possible to view users created in JSON.
